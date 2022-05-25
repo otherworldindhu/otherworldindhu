@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=otherworldindhu)
 
-<img src=''>
-![Visitor Count](https://profile-counter.glitch.me/{otherworldindhu}/count.svg)
+<img src="![Visitor Count](https://profile-counter.glitch.me/{otherworldindhu}/count.svg)
+">
