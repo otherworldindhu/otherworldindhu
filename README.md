@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @otherworldindhu
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning python,linux, NLP,ml.
+- Medium acct: https://medium.com/@indhumathi.s2002
 
 <!---
 otherworldindhu/otherworldindhu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
